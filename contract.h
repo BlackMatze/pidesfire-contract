@@ -9,13 +9,13 @@
 //
 // See docs/contract.md for protocol description and trust model.
 
+#include <algorithm>
 #include <array>
 #include <cstdint>
 #include <cstring>
 #include <stdexcept>
 #include <string>
 #include <vector>
-#include <algorithm>
 
 #include "sha256_impl.h"
 
